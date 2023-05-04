@@ -9,7 +9,7 @@ click==7.1.2
     # via
     #   -r requirements/tests-min.in
     #   flask
-flask==1.0.4
+flask==2.2.5
     # via -r requirements/tests-min.in
 itsdangerous==1.1.0
     # via
